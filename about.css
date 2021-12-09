@@ -1,0 +1,22 @@
+video{
+    width:800px;
+    margin: 20px;
+    outline: none;
+}
+#section{
+    text-align: center;
+}
+
+h1,p{
+    margin: 5px 20px;
+    color: blanchedalmond;
+}
+
+fieldset{
+    margin: 10px 20px;
+}
+#section{
+    background-image: url(./image15.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
